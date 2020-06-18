@@ -4,3 +4,6 @@
 [submodule "JPEG Decoder"]
 	path = JPEG Decoder
 	url = https://github.com/AhmedKhaled8/JPEG-Decoder
+[submodule "Audio-Separator"]
+	path = Audio-Separator
+	url = https://github.com/AhmedKhaled8/Audio-Separator
