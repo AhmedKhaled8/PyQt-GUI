@@ -1,1 +1,0 @@
-deezer [pip install spleeter==1.5.2]
