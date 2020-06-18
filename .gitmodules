@@ -1,3 +1,6 @@
 [submodule "ImageComponentsMixer"]
 	path = ImageComponentsMixer
 	url = https://github.com/AhmedKhaled8/ImageComponentsMixer
+[submodule "JPEG Decoder"]
+	path = JPEG Decoder
+	url = https://github.com/AhmedKhaled8/JPEG-Decoder
