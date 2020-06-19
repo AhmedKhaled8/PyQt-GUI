@@ -7,3 +7,6 @@
 [submodule "Audio-Separator"]
 	path = Audio-Separator
 	url = https://github.com/AhmedKhaled8/Audio-Separator
+[submodule "Music Equalizer"]
+	path = Music Equalizer
+	url = https://github.com/AhmedKhaled8/MusicEqualizer
