@@ -1,4 +1,4 @@
-# DSP
+# PyQt - GUIs
 Here are the GUIs of the Tasks/Projects I worked on in College:
 1. [Image Components Mixer](https://github.com/AhmedKhaled8/ImageComponentsMixer) : The GUI mixes 2 compatable components of 2 images (real of image 1 and imaginary of image 2, magnitude of image 1 and phase of image 2) to generate a new image. 2 output images can be simulataneously generated.
 2. [JPEG Decoder](https://github.com/AhmedKhaled8/JPEG-Decoder) : The progressive JPG images when loading in websites uploads in .. well "progressive" way. The GUI show 8 stages of the decoding process and how would the image appear in every stage of the 8 stages.
